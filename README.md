@@ -3,6 +3,12 @@
 
 This pipeline takes an audio recording of a meeting, summarizes its content, and converts it into structured Jira tickets. It utilizes Instill AI's OpenAI and Groq components to analyze and format the summary, then creates Jira issues based on the extracted content.
 
+
+Below is a demonstration of the pipeline in action:
+
+https://github.com/user-attachments/assets/3efc358a-1004-4e69-acad-cefcff4118ff
+
+
 ## Pipeline Overview
 
 ### Components
